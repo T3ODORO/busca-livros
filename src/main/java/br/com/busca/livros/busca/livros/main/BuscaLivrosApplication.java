@@ -1,4 +1,4 @@
-package br.com.busca.livros.busca.livros;
+package br.com.busca.livros.busca.livros.main;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
